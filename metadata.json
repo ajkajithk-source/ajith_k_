@@ -1,0 +1,6 @@
+{
+  "name": "Ajith Portfolio",
+  "description": "An interactive, highly animated portfolio for designer Ajith featuring hover-reveal projects, modular transitions, and custom cursor fluid aesthetics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
